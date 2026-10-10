@@ -1,0 +1,19 @@
+{
+  "dataset_rows": 3000,
+  "split_sizes": [
+    1800,
+    600,
+    600
+  ],
+  "winner": "LinearSVC",
+  "test_metrics": {
+    "accuracy": 0.8416666666666667,
+    "precision_macro": 0.8418527865171037,
+    "recall_macro": 0.8416666666666667,
+    "f1_macro": 0.841645112807021,
+    "precision_weighted": 0.8418527865171037,
+    "recall_weighted": 0.8416666666666667,
+    "f1_weighted": 0.8416451128070209,
+    "roc_auc": 0.9116777777777778
+  }
+}
