@@ -1,4 +1,4 @@
-# Comparative Study of Text Vectorization Techniques and Machine Learning Classifiers for Sentiment Analysis
+# Comparative Study of Text Vectorization Techniques and Machine Learning Classifiers for Sentiment Analysis 
 
 ## AI-Based Sentiment Analysis of IMDB Movie Reviews
 
